@@ -5,7 +5,7 @@ The example shows the following capabilities of tau:
 3. calling a function from a linked library, which was also compiled by tau_cc.sh
 4. calling a function from a linked library, which was compiled by gcc, and then wrapped by tau_gen_wrapper.
 5. inserting a user event
-\
+
 Same as previous example:\
 Two examples are included: for a single machine with 20 cores, and an mpi cluster with 3 nodes.\
 The function call details are limited to mpi calls.\
