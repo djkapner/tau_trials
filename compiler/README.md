@@ -9,9 +9,9 @@ The example shows the following capabilities of tau:
 Same as previous example:\
 Two examples are included: for a single machine with 20 cores, and an mpi cluster with 3 nodes.\
 The function call details are limited to mpi calls.\
+
 \
-\
-To build:
+To build:\
 $ make
 
 To run:\
