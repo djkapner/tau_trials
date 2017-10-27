@@ -16,3 +16,5 @@ These examples were run with these packages installed:
 - tau (see https://www.cs.uoregon.edu/research/tau/downloads.php)
 - jumpshot (http://www.mcs.anl.gov/research/projects/perfvis/download/index.htm#slog2sdk)
 
+The goal here is to get some visualization of what's going on, with meaningful, user-define execution blocks and events:
+![Alt text](./images/jumpshot_output.png?raw=true "Jumpshot visualization")
