@@ -1,6 +1,9 @@
 # tau_trials
 
-learning tau by example
+ "TAU Performance System® is a portable profiling and tracing toolkit for performance analysis of parallel programs written in Fortran, C, C++, UPC, Java, Python."
+ https://www.cs.uoregon.edu/research/tau/home.php
+
+# learning tau by example
 
 according to tau documentation:\
 https://www.cs.uoregon.edu/research/tau/docs/usersguide/ch01.html
