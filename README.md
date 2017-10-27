@@ -10,6 +10,8 @@ there are 3 ways to profile:
 2. compiler: use compiler directives in the code.
 3. source: use PDT to automatically instrument the code: https://www.cs.uoregon.edu/research/pdt/home.php
 
+I believe that both 2 and 3 are covered in the compiler folder and example.
+
 These examples were run with these packages installed:
 - mpich3.2
 - pdt (see https://www.cs.uoregon.edu/research/tau/downloads.php)
