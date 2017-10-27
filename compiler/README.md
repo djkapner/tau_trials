@@ -3,7 +3,7 @@ The example shows the following capabilities of tau:
 1. using tau_cc.sh so that user functions are traced and profiled, in addition to the mpi calls from the previous example.
 2. having both main, and another function called from main.
 3. calling a function from a linked library, which was also compiled by tau_cc.sh
-4. calling a function from a linked library, which was compiled by gcc, and the wrapped by tau_gen_wrapper.
+4. calling a function from a linked library, which was compiled by gcc, and then wrapped by tau_gen_wrapper.
 5. inserting a user event
 \
 Same as previous example:\
