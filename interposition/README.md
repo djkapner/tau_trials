@@ -4,21 +4,21 @@ The function call details are limited to mpi calls.\
 To build:
 $ make
 
-To run:
-$ export TAU_TRACE=0
-$ make runwithtau
-$ export TAU_TRACE=1
-$ make runwithtau
+To run:\
+$ export TAU_TRACE=0\
+$ make runwithtau\
+$ export TAU_TRACE=1\
+$ make runwithtau\
 
-text profiling (single or multi):
-$ cd tau_single 
-$ pprof
+text profiling (single or multi):\
+$ cd tau_single \
+$ pprof\
 
-visual profiling (single or multi):
-$ cd tau_single 
-$ paraprof
+visual profiling (single or multi):\
+$ cd tau_single \
+$ paraprof\
 
-trace visualization:
-$ cd tau_single 
-$ jumpshot tau.slog2
+trace visualization:\
+$ cd tau_single \
+$ jumpshot tau.slog2\
 
