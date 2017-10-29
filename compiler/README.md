@@ -20,15 +20,15 @@ $ make runwithtau\
 $ export TAU_TRACE=1\
 $ make runwithtau
 
-text profiling (single or multi):\
-$ cd tau_single \
+text profiling :\
+$ cd tau_output \
 $ pprof
 
-visual profiling (single or multi):\
-$ cd tau_single \
+visual profiling :\
+$ cd tau_output \
 $ paraprof
 
 trace visualization:\
-$ cd tau_single \
+$ cd tau_output \
 $ jumpshot tau.slog2
 
